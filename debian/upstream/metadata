@@ -1,0 +1,5 @@
+---
+Bug-Database: https://github.com/prometheus/client_golang/issues
+Bug-Submit: https://github.com/prometheus/client_golang/issues/new
+Repository: https://github.com/prometheus/client_golang.git
+Repository-Browse: https://github.com/prometheus/client_golang
